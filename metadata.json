@@ -1,21 +1,20 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Python: Environments",
+    "slug": "python-environments",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "python-introduction",
+        "python-packages",
+        "software-engineering-dependencies"
     ],
     "related": [
-        "",
-        ""
+        "python-venv-introduction",
+        "python-anaconda-introduction"
     ]
 }
